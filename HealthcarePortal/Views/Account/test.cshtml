@@ -1,0 +1,113 @@
+﻿
+@{
+    ViewBag.Title = "test";
+    Layout = "~/Views/Shared/_Login.cshtml";
+}
+
+<div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2  fusion-parallax-fixed nonhundred-percent-fullwidth" style="border-color:#e5e4e4;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:35px;padding-top:25px;padding-left:0px;padding-right:0px;background-color:#484b54;">
+
+    <style type="text/css" scoped="scoped">
+        .fusion-fullwidth-2 {
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+        }
+    </style>
+
+    <div class="fusion-row">
+        <h2 class="divHeader" style="font-size: 36px; color: rgb(255, 255, 255); line-height: 27px;" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="36" data-lineheight="27">Search,Compare &amp; Buy</h2>
+        <div id="divNormalView" class="col-md-12 col-md-offset-1">
+            <div id="divSearch" class="searchtxt">
+                <div class="innersearchDiv">
+                    <div class="text-center" id="searchFltrWrap">
+                        <div id="hp-login-area" class="col-xs-12">
+                            <div class="hptour-search-wrapper clearfix">
+                                <div id="search_main_container">
+                                    <div id="search_bar_wrapper">
+                                        <div class="pull-left" id="location_contianer">
+                                            <div class="
+                                                 ">
+                                                <span class="input-group-addon"><i class="fa  fa-map-marker" style="font-size:18px"></i></span>
+                                                <input id="txtCity" type="text" onkeyup="autoName(this);" class="form-control" placeholder="Select your city" aria-describedby="basic-ddon2"><div class="suggest-box" id="explore-location-suggest" style="didplay:none;left:0px !important;max-height:150px;overflow-y:auto;"></div>
+                                            </div>
+                                        </div>
+                                        <div class="pull-left" id="keywords_container">
+
+                                            <div class="input-group">
+
+
+                                                <input id="txtPkg" type="text" onkeyup="autoName(this)" class="form-control " placeholder="Please enter package/test name" aria-describedby="basic-addon2">
+                                                <span class="input-group-btn" id="basic-addon2">
+                                                    <button id="btnSearch" class="btn searchBtn">
+                                                        &nbsp;<i class="fa fa-search"></i>&nbsp;
+                                                    </button>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <input type="hidden" id="hdnPopupCity" value="">
+                                        <input type="hidden" id="hdnPackage" value="">
+                                    </div>
+
+                                    <small id="errorMsg" style="font-size:15px;color:#e87e23;display:none">Please select your city first</small>
+                                    <div class="clearfix"></div>
+                                    <div class="clearfix"></div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="divMobileview" class="col-md-12 col-md-offset-1" style="display:none;">
+            <div id="divSearchM" class="searchtxt">
+
+                <div class="innersearchDiv">
+                    <div class="text-center" id="searchFltrWrapM">
+
+                        <div id="hp-login-area-m" class="col-xs-12">
+                            <div class="hptour-search-wrapper">
+                                <div id="search_main_container_m">
+                                    <div id="search_bar_wrapper_m">
+                                        <div class="pull-left" id="location_contianer_m">
+                                            <div class="input-group">
+                                                <span class="input-group-addon"><i class="fa  fa-map-marker" style="font-size:18px"></i></span>
+                                                <input id="txtCityM" type="text" onkeyup="autoName(this);" class="form-control" placeholder="Select your city" aria-describedby="basic-ddon2"><div class="suggest-box" id="explore-location-suggest" style="didplay:none;left:0px !important;max-height:150px;overflow-y:auto;"></div>
+                                            </div>                                 <small id="errorMsgM" style="font-size:15px;color:#e87e23;display:none; text-align: left;">Please select your city first</small>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="pull-left" id="keywords_container_m">
+
+                                            <div class="input-group">
+                                                <span class="input-group-addon"><i class="fa fa-briefcase" style="font-size:10px"></i></span>
+
+                                                <input id="txtPkgM" type="text" onkeyup="autoName(this)" class="form-control " placeholder="Please enter package/test name" aria-describedby="basic-addon2">
+
+                                            </div>
+
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="input-group-btn" id="basic-addon2">
+                                            <button id="btnSearchM" class="btn searchBtn">
+                                                &nbsp;<i class="fa fa-search"></i>&nbsp;Search
+                                            </button>
+                                        </div>
+                                        <input type="hidden" id="hdnPopupCity">
+                                        <input type="hidden" id="hdnPackage" value="">
+                                    </div>
+
+
+                                    <div class="clearfix"></div>
+                                    <div class="clearfix"></div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,15 @@
+﻿body nav ul ul {
+    display: none;
+    position:absolute;
+    width: 100%;
+     
+    background: #5C87B2;
+    border-top: 5px solid #5C87B2;;
+    filter:alpha(opacity=80);
+    -moz-opacity:0.8;
+    -khtml-opacity: 0.8;
+    opacity: 0.8;
+}
+body nav ul ul li a{
+    line-height: 3.1em;
+}

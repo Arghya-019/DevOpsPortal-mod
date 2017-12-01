@@ -1,0 +1,87 @@
+﻿@using DevOpsPortal.SessionObject
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Universal HealthCare Limited</title>
+
+    @Styles.Render("~/Content/menu.css")
+    @Styles.Render("~/Content/bootstrap.css")
+    @Styles.Render("~/Content/bootstrap.min.css")
+    @Styles.Render("~/Content/style.css")
+
+    @Scripts.Render("~/bundles/modernizr")
+  
+    @{SingletonObject oSingleton = SingletonObject.GetCurrentSingleton();}  
+    @Html.Hidden("SessionID", @HttpContext.Current.Session.SessionID) 
+</head>
+<body>
+ <div class="fusion-header" >
+                <div class="fusion-row" >
+                    <table>
+                        <tr>
+                            <td>
+                                <img class="" src="~/Images/UniversalHealthCare.png" />
+                            </td>
+                            <td >
+                                <nav>
+                                    <ul id="menu">
+                                        <li class="submenu">
+                                            @Html.ActionLink("Services", "Index", "Home")
+                                        <ul>
+                                            <li>@Html.ActionLink("Corporate Wellness Programs", "Index", "Home")</li>
+                                            <li>@Html.ActionLink("Health Management Programs", "Index", "Home")</li>
+                                            <li>@Html.ActionLink("Health Dictionary", "Index", "Home")</li>
+                                            <li>@Html.ActionLink("Labkhoj: Compare Labs", "Index", "Home")</li>
+                                        </ul>
+                                    </li>
+                                    <li class="submenu">
+                                        @Html.ActionLink("Products", "Index", "Home")
+                                    <ul>
+                                        <li>@Html.ActionLink("Wellness Assessment", "Index", "Home")</li>
+                                        <li>@Html.ActionLink("Digital Health Wallet", "Index", "Home")</li>
+                                        <li>@Html.ActionLink("Quiz", "Index", "Home")</li>
+                                        <li>@Html.ActionLink("Trackers Unit", "Index", "Home")</li>
+                                        <li>@Html.ActionLink("Health Tracker App", "Index", "Home")</li>
+                                    </ul>
+                                </li>
+                                <li class="submenu">
+                                    @Html.ActionLink("About US", "Index", "Home")
+                                <ul>
+                                    <li>@Html.ActionLink("Our Story", "Index", "Home")</li>
+                                    <li>@Html.ActionLink("Meet the Team", "Index", "Home")</li>
+                                    <li>@Html.ActionLink("Partner's Speak", "Index", "Home")</li>
+                                    <li>@Html.ActionLink("Achivements", "Index", "Home")</li>
+                                    <li>@Html.ActionLink("Career with Us", "Index", "Home")</li>
+                                </ul>
+                            </li>
+                            <li class="submenu">
+                                @Html.ActionLink("Login", "Index", "Home")
+                            </li>
+                                 <li class="submenu">
+                                    @Html.ActionLink("Sign Up", "Index", "Home")
+                                 </li>
+                            </ul>
+                            </nav>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+       
+    <div class="container body-content">             
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; Hexaware Technologies Limited</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

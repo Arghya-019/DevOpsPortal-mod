@@ -1,0 +1,84 @@
+﻿@model DevOpsPortal.Models.CustomerDetails
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <div style="position:center;text-underline-position:below;font-size:x-large;padding-left:40%;"><u>Add Customer</u></div>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-5" })
+            <div class="col-md-7" style="text-align:left;padding-right:30%">
+                @Html.EditorFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Address, new { @class = "control-label col-md-5" })
+            <div class="col-md-7" style="text-align:left;padding-right:30%">
+                @Html.EditorFor(model => model.Address)
+                @Html.ValidationMessageFor(model => model.Address)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ContactNumber, new { @class = "control-label col-md-5" })
+            <div class="col-md-7" style="text-align:left;padding-right:30%">
+                @Html.EditorFor(model => model.ContactNumber)
+                @Html.ValidationMessageFor(model => model.ContactNumber)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AlternateContactNumber, new { @class = "control-label col-md-5" })
+            <div class="col-md-7" style="text-align:left;padding-right:30%">
+                @Html.EditorFor(model => model.AlternateContactNumber)
+                @Html.ValidationMessageFor(model => model.AlternateContactNumber)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Specialty, new { @class = "control-label col-md-5" })
+            <div class="col-md-7" style="text-align:left;padding-right:30%">
+                @Html.EditorFor(model => model.Specialty)
+                @Html.ValidationMessageFor(model => model.Specialty)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.QualificationSummary, new { @class = "control-label col-md-5" })
+            <div class="col-md-7" style="text-align:left;padding-right:30%">
+                @Html.EditorFor(model => model.QualificationSummary)
+                @Html.ValidationMessageFor(model => model.QualificationSummary)
+            </div>
+        </div>
+
+        <div class="form-group" style="margin-left:15%">
+            <div class="col-md-6" style="text-align:right;">
+                <input type="submit" value="Create" class="button" style="border-radius:16px" />
+            </div>
+            <div class="col-md-5" style="text-align:left;">
+                <input type="button" value="Cancel" class="button" onclick="window.location.href='@Url.Action("Index", "Customer")';" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10" style="color:green">
+                @ViewBag.Message
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to Customer List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

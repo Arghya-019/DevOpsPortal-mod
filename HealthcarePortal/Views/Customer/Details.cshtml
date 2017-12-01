@@ -1,0 +1,61 @@
+﻿@model DevOpsPortal.Models.CustomerDetails
+
+<div>
+    <h4>Customer Details</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AlternateContactNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AlternateContactNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Specialty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Specialty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QualificationSummary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QualificationSummary)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CustomerId }) |
+    @Html.ActionLink("Back to Customer List", "Index")
+</p>

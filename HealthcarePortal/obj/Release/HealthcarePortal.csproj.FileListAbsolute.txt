@@ -1,0 +1,120 @@
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\DevOpsPortal.dll.config
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\DevOpsPortal.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\DevOpsPortal.pdb
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\log4net.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Owin.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\log4net.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\obj\Release\DevOpsPortal.dll
+C:\Users\Administrator\Desktop\EYApp\WebApp\WebApp\HealthcarePortal\obj\Release\DevOpsPortal.pdb
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\DevOpsPortal.dll.config
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\DevOpsPortal.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\DevOpsPortal.pdb
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Antlr3.Runtime.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\EntityFramework.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\EntityFramework.SqlServer.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\FeatureSwitcher.Configuration.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\FeatureSwitcher.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\log4net.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.Google.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Web.Infrastructure.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Newtonsoft.Json.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\nunit.framework.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Owin.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.Helpers.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.Mvc.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.Optimization.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.Razor.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.WebPages.Deployment.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.WebPages.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.WebPages.Razor.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\WebGrease.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\FeatureSwitcher.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\log4net.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\nunit.framework.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.Helpers.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.Mvc.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.Optimization.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.Razor.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.WebPages.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.WebPages.Deployment.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\System.Web.WebPages.Razor.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Newtonsoft.Json.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Antlr3.Runtime.pdb
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\EntityFramework.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\EntityFramework.SqlServer.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.Google.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\obj\Release\DevOpsPortal.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\obj\Release\DevOpsPortal.pdb
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\FeatureToggle.Core.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\bin\FeatureToggle.dll
+C:\UniversalHC - Version 1.0-WithMoq\UniversalHC - Version 1.0\HealthcarePortal\obj\Release\HealthcarePortal.csprojResolveAssemblyReference.cache

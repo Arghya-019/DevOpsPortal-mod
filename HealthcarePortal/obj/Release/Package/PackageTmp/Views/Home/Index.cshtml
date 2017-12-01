@@ -1,0 +1,209 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<html>
+<head>
+    
+    <style>
+        .item {
+            background: #333;
+            text-align: center;
+            height: 500px !important;
+            width: 100%;
+            background-size: cover;
+        }
+
+        h2 {
+            margin: 0;
+            color: #888;
+            padding-top: 100px;
+            font-size: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="thumbnail">
+        <div id="DemoCarousel" class="carousel slide" data-interval="2000" data-ride="carousel" style="width:100%">
+            <!-- Carousel indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#DemoCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#DemoCarousel" data-slide-to="1"></li>
+                <li data-target="#DemoCarousel" data-slide-to="2"></li>
+            </ol>
+            <!-- Carousel items -->
+            <div class="carousel-inner">
+                <div class="item active"  style="background-image: url(../../Images/healthcare_en.jpg)"> </div>
+                <div class="item" style="background-image: url(../../Images/Track-Identify-Manage.jpg);"> </div>
+                <div class="item" style="background-image: url(../../Images/Health-Record.jpg)"> </div>
+            </div>
+            <!-- Carousel Controls -->
+            <a class="carousel-control left" href="#DemoCarousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </a>
+            <a class="carousel-control right" href="#DemoCarousel" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </a>
+        </div>
+    </div>
+    <div class="fusion-row" style="padding-top:1%;text-align:center;font-family:'MuseoSlab500Regular',Arial,Helvetica,sans-serif !important;">
+        <p class="divHeader" style="font-size: 30px; color: #454545;letter-spacing: 2px"><strong>Convenience At Your Finger Tip</strong></p>
+        <p class="pText" style="margin-top: 10px; color: #454545;">We help you digitize your medical report, track your health parameters and recommend adequate steps to mitigate your health risk.</p>
+        <p class="pText" style="margin-bottom: 5px;color: #454545;">All this at your finger tips. <a style="color: #ba1f25;" href="" target="_blank"><span style="text-decoration: underline !important;">Know more </span>&nbsp;<i class="fa fa-arrow-circle-o-right"></i></a></p>
+        <div class="imageframe-align-center">
+            <span class="fusion-imageframe imageframe-none imageframe-1 hover-type-none"> 
+                <img src="../../Images/mobile-tablet-laptop.jpg" data-lazy-type="image" data-lazy-src="../../Images/mobile-tablet-laptop.jpg" alt="Track Your Heath Parameter" class="lazy img-responsive lazy-loaded">
+            </span>
+        </div>
+    </div>
+    <div id="Aih_Compare">
+        <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2  fusion-parallax-fixed nonhundred-percent-fullwidth" style="border-color:#e5e4e4;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:35px;padding-top:25px;padding-left:0px;padding-right:0px;background-color:#484b54;">
+            <style type="text/css" scoped="scoped">
+                .fusion-fullwidth-2 {
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+                }
+            </style>
+            <div class="fusion-row">
+                <h2 class="divHeader" style="padding-top:0px!important; font-size: 36px; color: rgb(255, 255, 255); " data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="36" data-lineheight="27">Search,Compare &amp; Buy</h2>
+                <div id="divNormalView" class="col-md-12 col-md-offset-1">
+                    <div id="divSearch" class="searchtxt">
+                        <div class="innersearchDiv">
+                            <div class="text-center" id="searchFltrWrap">
+                                <div id="hp-login-area" class="col-xs-12">
+                                    <div class="hptour-search-wrapper clearfix">
+                                        <div id="search_main_container">
+                                            <div id="search_bar_wrapper">
+                                                <div class="pull-left" id="location_contianer" style="margin-left:18%">
+                                                    <div class="input-group" style="width:360px">
+                                                        <span class="input-group-addon"><i class="fa fa-map-marker" style="font-size:18px"></i></span>
+                                                        <input id="txtCity" type="text" class="form-control" placeholder="Select your city" aria-describedby="basic-ddon2">
+                                                        <div class="suggest-box" id="explore-location-suggest" style="display:none;left:0px !important;max-height:150px;overflow-y:auto;"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="pull-left" id="keywords_container">
+                                                    <div class="input-group" style="width:200px">
+                                                        <input id="txtPkg" type="text" class="form-control " placeholder="Please enter package/test name" aria-describedby="basic-addon2">
+                                                        <span class="input-group-btn" id="basic-addon2">
+                                                            <button id="btnSearch" class="btn searchBtn">
+                                                                &nbsp;<i class="fa fa-search"></i>&nbsp;
+                                                            </button>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div id="knowyourrisk">
+        <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-3  fusion-parallax-fixed nonhundred-percent-fullwidth" style="border-color:#e5e4e4;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:15px;padding-top:20px;padding-left:0px;padding-right:0px;background-color:#1695b6;">
+            <style type="text/css" scoped="scoped">
+                .fusion-fullwidth-3 {
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+                }
+            </style><div class="fusion-row">
+                <p class="divHeader" style="font-size: 36px; color: #ffffff;">Assessing Your Health</p>
+                <p class="pText" style="margin-top: 5px; letter-spacing: 1px; color: #ffffff;">Seamless integration with labs, hospitals and expert doctors help us to provide you a very personalized care.</p>
+                <p class="pText" style="letter-spacing: 1px; color: #ffffff;">You can identify and manage your risk,consult an expert doctor and even book a health package.</p>
+                <p class="pText"><a href="" target="_blank"><span style="color: #ffffff; text-decoration: underline !important;">Learn more about HRA <i class="fa fa-arrow-circle-o-right"></i></span></a></p>
+            </div>
+        </div>
+    </div>
+    <div class="fusion-row">
+        <div class="imageframe-align-center">
+        <span class="fusion-imageframe imageframe-none imageframe-2 hover-type-none"> 
+
+            <img style="padding-left:5%;padding-right:10%" src="../../Images/Persoanlize-wellness-report.jpg" data-lazy-type="image" alt="Wellness and Health Management Tool" class="lazy img-responsive lazy-loaded">
+        </span></div><div class="fusion-button-wrapper fusion-aligncenter">
+    <style type="text/css" scoped="scoped">
+        .fusion-button.button-1 .fusion-button-text, .fusion-button.button-1 i {
+            color: #fff;
+        }
+
+        .fusion-button.button-1 {
+            border-width: 0px;
+            border-color: #fff;
+        }
+
+            .fusion-button.button-1 .fusion-button-icon-divider {
+                border-color: #fff;
+            }
+
+            .fusion-button.button-1:hover .fusion-button-text, .fusion-button.button-1:hover i, .fusion-button.button-1:focus .fusion-button-text, .fusion-button.button-1:focus i, .fusion-button.button-1:active .fusion-button-text, .fusion-button.button-1:active {
+                color: #fff;
+            }
+
+            .fusion-button.button-1:hover, .fusion-button.button-1:focus, .fusion-button.button-1:active {
+                border-width: 0px;
+                border-color: #fff;
+            }
+
+                .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:active .fusion-button-icon-divider {
+                    border-color: #fff;
+                }
+
+        .fusion-button.button-1 {
+            background: #f0733d;
+        }
+
+            .fusion-button.button-1:hover, .button-1:focus, .fusion-button.button-1:active {
+                background: #ef8456;
+            }
+
+        .fusion-button.button-1 {
+            width: auto;
+        }
+    </style>
+        <a class="fusion-button button-flat button-round button-large button-custom button-1" target="_blank" href="" id="btnAssessment">
+        <span class="fusion-button-text">Take Assessment</span></a></div></div>
+    <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-5  fusion-parallax-none nonhundred-percent-fullwidth" style="border-color:#eae9e9;border-bottom-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:20px;padding-left:20px;padding-right:20px;padding-left:20px !important;padding-right:20px !important;background-color:#305070;">
+        <style type="text/css" scoped="scoped">
+            .fusion-fullwidth-5 {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+            }
+        </style><div class="fusion-row">
+            <h1 class="divHeader" data-lineheight="48" data-fontsize="34" data-inline-lineheight="true" data-inline-fontsize="true" style="font-size: 34px; line-height: 18px;"><span style="color: #ffffff;"><strong>Care@Universal HealthCare</strong></span></h1>
+            <p>&nbsp;</p>
+            <p class="pText" style="text-align: center;">
+                <span style="color: #ffffff;font-size:medium">Care is a complete guide on symptoms, test procedures, diseases and health conditions. You can find adequate medical information on most common diseases which will help you to live a healthy life.</span>
+            </p>
+        </div>
+    </div>
+    <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-9  fusion-parallax-none nonhundred-percent-fullwidth" style="border-color:white;border-bottom-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:1px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#484b53;">
+        <style type="text/css" scoped="scoped">
+            .fusion-fullwidth-9 {
+                padding-left: 0px !important;
+                padding-right: 0px !important;
+            }
+        </style><div class="fusion-row"><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-7 hover-type-none"> <img src="~/Images/timeline-about-AIH.jpg" data-lazy-type="image" data-lazy-src="~/Images/timeline-about-AIH.jpg" alt="AllizHealth Timeline" class="lazy img-responsive lazy-loaded">
+        </span></div></div>
+    </div>
+    <div id="aboutus">
+        <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-8  fusion-parallax-fixed nonhundred-percent-fullwidth" style="border-color:#e5e4e4;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-top:5px;padding-left:0px;padding-right:0px;background-color:#ffffff;">
+            <style type="text/css" scoped="scoped">
+                .fusion-fullwidth-8 {
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+                }
+            </style>
+            <div class="fusion-row" style="line-height:2">
+                <p class="divHeader" style="font-size: 30px; color: #454545;"><strong><u>About Us</u></strong></p>
+                <p class="pText" style="margin-top: 5px; color: #666464;font-size:medium"><span style="font-weight: 400;">Building a consumer focused health and wellness platform for early identification tracking and management of health risk and conditions</span>. <span style="font-weight: 400;">Based out of Pune, our efforts are to help in the transition from curative to preventive care.Our platform looks to encourage user involvement and design health interventions which are preventive, prescriptive and persuasive in nature</span>.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

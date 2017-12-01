@@ -1,0 +1,16 @@
+D:\DevOps_DotNet\BuildTask\bin\Debug\BuildTask.dll
+D:\DevOps_DotNet\BuildTask\bin\Debug\BuildTask.pdb
+D:\DevOps_DotNet\BuildTask\bin\Debug\BuildTask.xml
+D:\DevOps_DotNet\BuildTask\obj\Debug\Microsoft.Build.Tasks.Resources.resources
+D:\DevOps_DotNet\BuildTask\obj\Debug\BuildTask.vbproj.GenerateResource.Cache
+D:\DevOps_DotNet\BuildTask\obj\Debug\BuildTask.dll
+D:\DevOps_DotNet\BuildTask\obj\Debug\BuildTask.xml
+D:\DevOps_DotNet\BuildTask\obj\Debug\BuildTask.pdb
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\BuildTask\bin\Debug\BuildTask.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\BuildTask\bin\Debug\BuildTask.pdb
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\BuildTask\bin\Debug\BuildTask.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\BuildTask\obj\Debug\Microsoft.Build.Tasks.Resources.resources
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\BuildTask\obj\Debug\BuildTask.vbproj.GenerateResource.Cache
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\BuildTask\obj\Debug\BuildTask.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\BuildTask\obj\Debug\BuildTask.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\BuildTask\obj\Debug\BuildTask.pdb

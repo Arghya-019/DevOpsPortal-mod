@@ -1,0 +1,283 @@
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.dll.config
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.pdb
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Antlr3.Runtime.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.SqlServer.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Google.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Newtonsoft.Json.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Owin.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Helpers.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Mvc.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Optimization.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Razor.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Deployment.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Razor.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\WebGrease.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Helpers.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Mvc.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Optimization.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Razor.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Deployment.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Razor.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Newtonsoft.Json.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Antlr3.Runtime.pdb
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.SqlServer.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Google.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.csprojResolveAssemblyReference.cache
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.dll
+D:\MousumiBackup\WithSolution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.pdb
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.dll.config
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.pdb
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Antlr3.Runtime.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.SqlServer.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Google.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Newtonsoft.Json.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Owin.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.Helpers.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.Mvc.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.Optimization.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.Razor.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Deployment.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Razor.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\WebGrease.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.Helpers.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.Mvc.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.Optimization.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.Razor.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Deployment.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Razor.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Newtonsoft.Json.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Antlr3.Runtime.pdb
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.SqlServer.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Google.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.csprojResolveAssemblyReference.cache
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.dll
+D:\DevOps_DotNet\Solution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.pdb
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.dll.config
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\DevOpsPortal.pdb
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Antlr3.Runtime.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.SqlServer.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Google.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Newtonsoft.Json.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\nunit.framework.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Owin.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Helpers.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Mvc.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Optimization.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Razor.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Deployment.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Razor.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\WebGrease.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\nunit.framework.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Helpers.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Mvc.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Optimization.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.Razor.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Deployment.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\System.Web.WebPages.Razor.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Newtonsoft.Json.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Antlr3.Runtime.pdb
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\EntityFramework.SqlServer.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Google.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.csprojResolveAssemblyReference.cache
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\obj\Release\DevOpsPortal.pdb
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\log4net.dll
+D:\DevOps_DotNet\NUnitSolution\DevOpsPortal\DevOpsPortal\bin\log4net.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\DevOpsPortal.dll.config
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\DevOpsPortal.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\DevOpsPortal.pdb
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Antlr3.Runtime.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\EntityFramework.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\log4net.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Newtonsoft.Json.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Owin.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.Helpers.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.Mvc.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.Optimization.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.Razor.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.WebPages.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\WebGrease.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\log4net.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.Helpers.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.Mvc.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.Optimization.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.Razor.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.WebPages.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Newtonsoft.Json.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Antlr3.Runtime.pdb
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\EntityFramework.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\obj\Release\DevOpsPortal.csprojResolveAssemblyReference.cache
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\obj\Release\DevOpsPortal.dll
+C:\Users\nagarsa5\Desktop\DevOps\DevOpsPortal-master\DevOpsPortal\obj\Release\DevOpsPortal.pdb
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\DevOpsPortal.dll.config
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\DevOpsPortal.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\DevOpsPortal.pdb
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Antlr3.Runtime.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\EntityFramework.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\EntityFramework.SqlServer.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\log4net.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Newtonsoft.Json.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Owin.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.Helpers.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.Mvc.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.Optimization.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.Razor.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.WebPages.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.WebPages.Razor.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\WebGrease.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\log4net.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.Helpers.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.Mvc.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.Optimization.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.Razor.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.WebPages.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\System.Web.WebPages.Razor.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Newtonsoft.Json.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Antlr3.Runtime.pdb
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\EntityFramework.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\EntityFramework.SqlServer.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\obj\Release\DevOpsPortal.dll
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\obj\Release\DevOpsPortal.pdb
+C:\Products\Source Code- Universal_HC\UniversalHC - Version 1.0\HealthCarePortal\UniversalHC - Version 1.0\DevOpsPortal\obj\Release\DevOpsPortal.csprojResolveAssemblyReference.cache

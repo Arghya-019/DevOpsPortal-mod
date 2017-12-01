@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-DevOpsPortal-20160212042620.mdf;Initial Catalog=aspnet-DevOpsPortal-20160212042620;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\UniversalHC\ -\ Version\ 1\.0-WithMoq\\UniversalHC\ -\ Version\ 1\.0\\HealthcarePortal\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="MyConnection-Web.config Connection String" description="MyConnection Connection String used in web.config by the application to access the database." defaultValue="Server=.\;Database=DevOpsAnalytics;User ID=Devops;Password=Password123;Trusted_Connection=Yes;Integrated Security = false;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\UniversalHC\ -\ Version\ 1\.0-WithMoq\\UniversalHC\ -\ Version\ 1\.0\\HealthcarePortal\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyConnection']/@connectionString" />
+  </parameter>
+</parameters>

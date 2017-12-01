@@ -1,0 +1,55 @@
+﻿@model DevOpsPortal.Models.LoginDetails
+
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <div style="position:center;text-underline-position:below;font-size:x-large;padding-left:40%;"><u>User Registration</u></div>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-5" })
+            <div class="col-md-7" style="text-align:left">
+                @Html.TextAreaFor(model => model.Email, new {@class = "inputtxt" })
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Password, new { @class = "control-label col-md-5" })
+            <div class="col-md-7" style="text-align:left">
+                @Html.PasswordFor(model => model.Password, new { @class = "inputtxt" })
+                @Html.ValidationMessageFor(model => model.Password)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-6" style="text-align:right;">
+                <input type="submit" value="Register" class="button" style="border-radius: 16px;" />
+            </div>
+            <div class="col-md-5" style="text-align:left;">
+                <input type="button" value="Cancel" class="button" onclick="window.location.href='@Url.Action("Login", "Home")';" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10" style="color:green">
+                @ViewBag.Message
+            </div>
+            <div class="col-md-offset-2 col-md-10" style="color:red">
+                @ViewBag.Error
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

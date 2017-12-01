@@ -1,0 +1,78 @@
+﻿ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+    ul li {
+    /*font-family: 'MuseoSlab500Regular', Arial, Helvetica, sans-serif;*/
+    }
+    /*.submenu{
+    border-bottom: 1px solid #dcdadb;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: #333333;
+    font-family: 'Maiden Orange', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    }*/
+
+li ul {
+    display: none;
+}
+
+ul li a {
+    display: block;
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+    white-space: nowrap;
+    color: #585170;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.submenu ul li a {
+    display: block;
+    text-decoration: none;
+    white-space: nowrap;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: beige;
+    height:30px;
+    text-align:left;
+}
+
+    ul li a:hover {
+           color: maroon;
+    border-bottom: 3px solid #ba1f25;
+    /*border-top: 3px solid #ba1f25;*/
+    }
+
+li:hover ul {
+    display:block;
+    color: darkred;
+    position:fixed;
+
+}
+
+li:hover li {
+    float: none;
+    /*border-top: 3px solid #ba1f25;*/
+}
+
+li:hover a {
+    padding-top:2px;
+    
+    /*background: url(../Images/header-pattern-150.png) repeat;*/
+}
+
+li:hover li a:hover {
+    background-color:white;
+}
+
+#drop-nav li ul li {
+    border-top: 0px;
+}
